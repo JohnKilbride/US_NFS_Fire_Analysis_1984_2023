@@ -1,0 +1,9 @@
+*-.checkpoint*
+data/*
+!data/tables/
+!.gitkeep
+
+# Ignore Jupyter checkpoints anywhere
+**/.ipynb_checkpoints
+src/format_data_layers/.Rhistory
+.Rhistory
