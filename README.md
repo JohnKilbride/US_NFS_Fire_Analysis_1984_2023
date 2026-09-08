@@ -13,24 +13,17 @@
 
 </div>
 
+This GitHub repository contains the analysis logic for the manuscript: [*Roadless status under The Roadless Area Conservation Rule is not associated with increased wildfire in the US National Forest System*](https://www.placeholder-text), published in Conservation Science and Practice (September, 2026). 
+
+
 ## Overview
-
-This repository contains the analysis logic for the manuscript [**Roadless status under The Roadless Area Conservation Rule is not associated
-with increased wildfire in the US National Forest System*](www.placeholder-text...) which was published in Conservation Science and Practice/ 
-
-Kilbride, J.B., Johnston, J.D., Kennedy, R.E., Meigs, G.W., & Francis, E.M. (2025).
-*Conservation Science and Practice*.
-[Manuscript](https://doi.org/xxxxx) · [Data archive](https://doi.org/10.5281/zenodo.17932816)
-
-
-## Analysis Context
 
 On Aug. 29, 2025, the US Department of Agriculture announced they intend to rescind the 2001 Roadless Area Conservation Rule [1]. "The Rule" protects inventoried roadless areas across the national forest system [2]. The Notice of Intent to rescind the Rule (90 FR 42179), cites rising rates of wildfire and states that allowing road building on these lands will allow for “swift and immediate action to reduce wildfire risk”.  
 
-Our research group previously published an analysis [3] that addressed the question of whether roadless status is associated with a greater rate of burning or burn severity. The same conclusions were reached independently using similar data by [4] and align with the findings from [5]. To assist informed decision making, we have updated and expanded upon these prior analyses to address recent extreme fire years and explicitly differentiate among three mutually exclusive access categories: Congressionally designated wilderness, Inventoried Roadless Areas (IRAs; excluding wilderness land), and developed areas.  
+Our research group previously published an analysis [3] that addressed the question of whether roadless status is associated with a greater rate of burning or burn severity. The same conclusions were reached independently using similar data by [4] and align with the findings from [5]. To assist informed decision making, we have updated and expanded upon these prior analyses to address recent extreme fire years and explicitly differentiate among three mutually exclusive access categories: Congressionally designated wilderness, Inventoried Roadless Areas (IRAs; excluding wilderness land), and developed areas. 
 
-We do the following:  
-1. We compile and summarize four decades (1984–2023) of spatially explicit fire data [Monitoring Trends in Burn Severity](https://www.mtbs.gov/) across forested regions of the western US national forests.  
+In our analysis, we do the following:  
+1. We compile and summarize four decades (1984–2023) of spatially explicit fire data [Monitoring Trends in Burn Severity](https://www.mtbs.gov/) across forested regions of the western US National Forest System.  
 2. We compare burn rates across three land management categories: wilderness areas, IRAs, and developed areas.
 
 Our analysis indicates that IRAs across western states NFS land are not associated with a significantly greater rate of burning – or a greater rate of moderate- and high-severity fire – relative to roaded or developed lands.
