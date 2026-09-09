@@ -89,4 +89,4 @@ The `./src` folder contains the logic used in the analysis. This is divided into
 
 [4] Healey, S. P. (2020). Long-term forest health implications of roadlessness. Environmental Research Letters, 15(10), 104023.
 
-[5] Bradley, C. M., Hanson, C. T., & DellaSala, D. A. (2016). Does increased forest protection correspond to higher fire severity in frequent‐fire forests of the western United States?. Ecosphere, 7(10), e01492.
+[5] Bradley, C. M., Hanson, C. T., & DellaSala, D. A. (2016). Does increased forest protection correspond to higher fire severity in frequent‐fire forests of the western United States? Ecosphere, 7(10), e01492.
