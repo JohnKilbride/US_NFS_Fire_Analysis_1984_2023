@@ -13,7 +13,7 @@
 
 </div>
 
-This GitHub repository contains the analysis logic for the manuscript: [*Roadless status under The Roadless Area Conservation Rule is not associated with increased wildfire in the US National Forest System*](https://www.placeholder-text), published in Conservation Science and Practice (September, 2026). 
+This GitHub repository contains the analysis logic for the manuscript: [*Roadless status under The Roadless Area Conservation Rule is not associated with increased wildfire in the US National Forest System*](https://conbio.onlinelibrary.wiley.com/doi/10.1111/csp2.70411).
 
 
 ## Overview
@@ -23,7 +23,7 @@ On Aug. 29, 2025, the US Department of Agriculture announced they intend to resc
 Our research group previously published an analysis [3] that addressed the question of whether roadless status is associated with a greater rate of burning or burn severity. The same conclusions were reached independently using similar data by [4] and align with the findings from [5]. To assist informed decision making, we have updated and expanded upon these prior analyses to address recent extreme fire years and explicitly differentiate among three mutually exclusive access categories: Congressionally designated wilderness, Inventoried Roadless Areas (IRAs; excluding wilderness land), and developed areas. 
 
 In our analysis, we do the following:  
-1. We compile and summarize four decades (1984–2023) of spatially explicit fire data [Monitoring Trends in Burn Severity](https://www.mtbs.gov/) across forested regions of the western US National Forest System.  
+1. We compile and summarize four decades (1984–2023) of spatially explicit fire data using the [Monitoring Trends in Burn Severity](https://www.mtbs.gov/) dataset across forested regions of the western US National Forest System.  
 2. We compare burn rates across three land management categories: wilderness areas, IRAs, and developed areas.
 
 Our analysis indicates that IRAs across western states NFS land are not associated with a significantly greater rate of burning – or a greater rate of moderate- and high-severity fire – relative to roaded or developed lands.
@@ -65,7 +65,6 @@ The `./src` folder contains the logic used in the analysis. This is divided into
 - **./analysis**: Summarizing the MTBS fire data .
 - **./visualization**: Logic for generating figures that appeared within the paper.
 
-
 ## Publication citation
 
 ```bibtex
@@ -75,8 +74,7 @@ The `./src` folder contains the logic used in the analysis. This is divided into
   author  = {Kilbride, John B. and Johnston, James D. and Kennedy, Robert E.
              and Meigs, Garrett W. and Francis, Enoh Martha},
   year    = {2026},
-  journal = {Conservation Science and Practice},
-  doi     = {DOI}
+  journal = {Conservation Science and Practice}
 }
 ```
 
